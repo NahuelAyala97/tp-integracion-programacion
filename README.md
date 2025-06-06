@@ -24,3 +24,7 @@ Por cada ejecución se imprime en la terminal los siguientes datos:
 - El tiempo de ejecución del algoritmo de ordenamiente Bubble Sort.
 - El resultado de la búsqueda lineal, detallando el índice encontrado, valor y tiempo de ejecución.
 - El resultado de la búsqueda binaria, detallando el índice encontrado, valor y tiempo de ejecución.
+
+#Presentación video en Youtube
+
+https://www.youtube.com/watch?v=H7TKF7jj6qs
